@@ -2,6 +2,8 @@
 埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。
 
 ## 導入
+VPM版は[こちら](https://github.com/sigmal00/UzumoreShaderVPM)
+
 このシェーダーはliltoonのカスタムシェーダー機能を用いて作成されたシェーダーです。
 
 事前に[liltoonシェーダー](https://lilxyzw.github.io/lilToon/#/)のインポートが必要です。
