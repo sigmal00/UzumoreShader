@@ -4,6 +4,8 @@
 ## 導入
 VPM版は[こちら](https://github.com/sigmal00/UzumoreShaderVPM)
 
+今後の更新はVPM版で行います。こちらのリポジトリの更新は行いません。
+
 このシェーダーはliltoonのカスタムシェーダー機能を用いて作成されたシェーダーです。
 
 事前に[liltoonシェーダー](https://lilxyzw.github.io/lilToon/#/)のインポートが必要です。
